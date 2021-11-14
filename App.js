@@ -47,19 +47,6 @@ function App() {
       console.log("Not Left or Right arrow key")
     }
   }
-  
-  // function countDown() {
-  //   let timeLeft = 5
-  //   setInterval(() => {
-  //     if (timeLeft === 0) {
-  //       fetchDog()
-  //       clearInterval(timeLeft = 6)
-  //     }
-  //     let timeText = document.getElementById("time")
-  //     timeText.innerHTML = timeLeft -= 1
-  //     console.log(timeLeft)
-  //   }, 1000)
-  // }
 
   return (
     <div className="app">

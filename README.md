@@ -1,5 +1,1 @@
-# Kenzie Academy Doggie Speed Dating Assessment
-
-Complete your work inside of `code.js`
-
-Follow the instructions provided on my.kenzie.academy for this assignment.
+Simple react application using useState, useEffect, and useRef to make speed dating app on adopting dogs. 
